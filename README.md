@@ -1,2 +1,3 @@
 # hello-world
-this is exercise
+ja sam mali joca
+u šupku mi boca
